@@ -1,4 +1,4 @@
-# Better Than F# Sympla
+# Better Than Sympla (BTFS)
 
 **Better Than Sympla** is an experimental platform focused on **event discovery**.
 
@@ -8,7 +8,7 @@ Today, most platforms focus mainly on **ticket sales**, while event discovery ha
 
 BTFS aims to change that by becoming a **central hub for discovering events**.
 
----asdasdasdasd
+---
 
 ## Project Vision
 
@@ -22,7 +22,7 @@ Create a platform where users can:
 
 Instead of focusing only on **buying tickets**, the platform focuses on **discovering events**.
 
----njjnjhvbaskkhgyhjj
+---
 
 ## Tech Stack
 
@@ -79,16 +79,16 @@ better-than-sympla
 
 ## Backend Layers
 
-**Domain**
+**Domain**  
 Contains the core business entities and rules.
 
-**Application**
+**Application**  
 Contains application services and use cases.
 
-**Infrastructure**
+**Infrastructure**  
 Handles external dependencies like database access.
 
-**API**
+**API**  
 Exposes HTTP endpoints used by the frontend.
 
 ---

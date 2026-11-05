@@ -271,4 +271,3 @@ app.MapGet("/weatherforecast", () =>
         new WeatherForecast
         (
             DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),

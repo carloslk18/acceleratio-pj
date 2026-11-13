@@ -257,6 +257,3 @@ if (app.Environment.IsDevelopment())
 {
 
 app.UseHttpsRedirection();
-
-var summaries = new[]
-{
